@@ -114,6 +114,7 @@
 #endif
 #endif
 #endif /* U8X8_HAVE_HW_I2C */
+#define U8X8_HAVE_2ND_HW_I2C
 
 /* define U8X8_HAVE_2ND_HW_SPI if the board has a second wire interface*/
 /* As of writing this, I did not found any official board which supports this */
